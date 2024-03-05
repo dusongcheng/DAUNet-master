@@ -20,8 +20,11 @@ References
 If you find this code helpful, please kindly cite:
 
 [1] Li J, Du S, Song R, et al. Progressive Spatial Information-Guided Deep Aggregation Convolutional Network for Hyperspectral Spectral Super-Resolution[J]. IEEE Transactions on Neural Networks and Learning Systems, 2023.
+
 [2] J. Li, S. Du, R. Song, C. Wu, Y. Li and Q. Du, "HASIC-Net: Hybrid Attentional Convolutional Neural Network With Structure Information Consistency for Spectral Super-Resolution of RGB Images," in IEEE Transactions on Geoscience and Remote Sensing, vol. 60, pp. 1-15, 2022, Art no. 5522515, doi: 10.1109/TGRS.2022.3142258.
+
 [3] Li J, Du S, Wu C, et al. DRCR Net: Dense Residual Channel Re-Calibration Network With Non-Local Purification for Spectral Super Resolution[C]//Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2022: 1259-1268.
+
 [4] Du S, Leng Y, Liang X, et al. Degradation Aware Unfolding Network for Spectral Super-Resolution[J]. IEEE Geoscience and Remote Sensing Letters, 2023.
 
 Citation Details
