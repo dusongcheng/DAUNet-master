@@ -11,7 +11,7 @@ Fig. 1: Network architecture of our accurate DAUNet.
 Training and Test Process
 --
 1) Please prepare the training and test data as operated in the paper. 
-3) Run "train.py" to train the SIGnet.
+3) Run "train.py" to train the DAUNet.
 4) Run "test.py" to test.
 5) Download the pretrained model ([Baidu Disk](https://pan.baidu.com/s/1BdLfobJD7x_fNnY2mnvfAA?pwd=abcd), code: `abcd`)).
 
